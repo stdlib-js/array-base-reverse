@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import reverse from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-reverse@esm/index.mjs';
+import reverse from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-reverse@v0.2.2-esm/index.mjs';
 ```
 
 #### reverse( x )
@@ -107,7 +107,7 @@ var bool = ( out === x );
 
 import Float64Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-float64@esm/index.mjs';
 import zeroTo from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-zero-to@esm/index.mjs';
-import reverse from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-reverse@esm/index.mjs';
+import reverse from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-reverse@v0.2.2-esm/index.mjs';
 
 var x = new Float64Array( zeroTo( 6 ) );
 // returns <Float64Array>[ 0.0, 1.0, 2.0, 3.0, 4.0, 5.0 ]
